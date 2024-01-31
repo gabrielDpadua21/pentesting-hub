@@ -1,0 +1,3 @@
+http://exemple.com
+https://google.com
+https://solidy.com
